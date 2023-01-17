@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=CryptoTuck&color=blue)
 
 <h1 align="center">
 👋 Full-Stack and Blockchain Engineer 👋
