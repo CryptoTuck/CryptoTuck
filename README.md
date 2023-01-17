@@ -1,16 +1,20 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-<!--
-**CryptoTuck/CryptoTuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+👋 Full-Stack and Blockchain Engineer 👋
+</h1>
 
-Here are some ideas to get you started:
+## Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skillset:
+
+<ul>● Frontend : HTML/HTML5, CSS, Javascript/Typescript, Responsive Design, Tailwind/Material UI/Styled Components, React.js/Next.js ...</ul>
+<ul>● Backend : Node.js/ Express.js, Blitz.js ...</ul>
+<ul>● Blockchain : Web3.js/Ether.js, Moralis, Alchemy, WGMI, Smart Contract(Solidity), Hardhat/Truffle/Remix ...</ul>
+<ul>● Database : MongoDB, PostgreSQL ...</ul>
+<ul>● PM Tools : Github, Notion ...</ul>
+<ul>● Services : Vercel ...</ul>
+<ul>● Others : Figma, Webflow, Photoshop, Miro, Linux ...</ul>
+
+
+
