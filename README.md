@@ -8,7 +8,7 @@
 
 ## Skillset:
 
-<ul>● Frontend : HTML/HTML5, CSS, Javascript/Typescript, Responsive Design, Tailwind/Material UI/Styled Components, React.js/Next.js ...</ul>
+<ul>● Frontend : HTML/HTML5, CSS, Javascript/Typescript, Responsive Design, Tailwind/Material UI/Styled Components, React.js/Next.js</ul>
 <ul>● Backend : Node.js/ Express.js, Blitz.js ...</ul>
 <ul>● Blockchain : Web3.js/Ether.js, Moralis, Alchemy, WGMI, Smart Contract(Solidity), Hardhat/Truffle/Remix ...</ul>
 <ul>● Database : MongoDB, PostgreSQL ...</ul>
