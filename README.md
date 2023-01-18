@@ -6,7 +6,7 @@
 
 ## Summary
 
-Hi my name is Tucker, I am a fullstack and blockchain developer with a relentless drive to expand my skill set and stay on the cutting edge of new technologies. My passion lies in the web3 space and I am always eager to dive into new projects and challenges to further my expertise in blockchain and its real-world applications. An innovative problem-solver with a love for learning and growing as a developer.
+Hi my name is Tucker, I am a fullstack and blockchain developer always looking to expand my skill set and stay on the cutting edge of new technologies. My passion lies in the web3 space and I am always eager to dive into new projects and challenges to further my expertise in blockchain and development as a whole. I am an innovative problem-solver with a love for learning and growing as a developer.
 
 If I am not at the keyboard you can either find me in the gym or outside getting a run in. 
 
