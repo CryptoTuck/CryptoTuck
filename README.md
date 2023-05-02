@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=CryptoTuck&color=blue)
 
 <h1 align="center">
-👋 Full-Stack and Blockchain Engineer 👋
+👋 Software Egineer | AI | Blockchain 👋
 </h1>
 
 ## Summary
 
-Hi my name is Tucker, I am a fullstack and blockchain developer always looking to expand my skill set and stay on the cutting edge of new technologies. My passion lies in the web3 space and I am always eager to dive into new projects and challenges to further my expertise in blockchain and development as a whole. I am an innovative problem-solver with a love for learning and growing as a developer.
+Hi my name is Tucker, I am a fullstack and blockchain developer always looking to expand my skill set and stay on the cutting edge of new technologies. My passion lies in the web3 & artificial intelligence space and I am always eager to dive into new projects and challenges to further my expertise in development as a whole. I am an innovative problem-solver with a love for learning and growing as a developer.
 
 If I am not at the keyboard you can either find me in the gym or outside getting a run in. 
 
