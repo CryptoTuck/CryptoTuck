@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=CryptoTuck&color=blue)
 
 <h1 align="center">
-👋 Software Egineer | AI | Blockchain 👋
+👋 Software Engineer | AI | Blockchain 👋
 </h1>
 
 ## Summary
